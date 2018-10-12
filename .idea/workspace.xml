@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3665f50-7d85-4e0e-930e-038f8721181d" name="Default" comment="" />
+    <list default="true" id="b3665f50-7d85-4e0e-930e-038f8721181d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/array2/CountEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array2/CountEvents.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +37,8 @@
       <file leaf-file-name="CountEvents.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/array2/CountEvents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -815,11 +814,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/array2/CountEvents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding>
-            <element signature="e#82#83#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
