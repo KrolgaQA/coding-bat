@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3665f50-7d85-4e0e-930e-038f8721181d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string3/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,20 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/string3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            <state relative-caret-position="136">
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EqualIsNot.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/string3/EqualIsNot.java">
+      <file leaf-file-name="SumDigits.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/string3/SumDigits.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="153">
+              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -55,9 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/logic1/InOrder.java" />
-        <option value="$PROJECT_DIR$/src/logic1/TheOrderEqual.java" />
-        <option value="$PROJECT_DIR$/src/logic1/LastDigit.java" />
         <option value="$PROJECT_DIR$/src/logic1/LessByTen.java" />
         <option value="$PROJECT_DIR$/src/logic1/WithoutDoubles.java" />
         <option value="$PROJECT_DIR$/src/logic1/MaxMod5.java" />
@@ -102,10 +99,13 @@
         <option value="$PROJECT_DIR$/src/array2/Sum67.java" />
         <option value="$PROJECT_DIR$/src/string2/SameStarChar.java" />
         <option value="$PROJECT_DIR$/src/String3.java" />
-        <option value="$PROJECT_DIR$/src/string3/Main.java" />
         <option value="$PROJECT_DIR$/src/string3/CountYZ.java" />
         <option value="$PROJECT_DIR$/src/string3/WithoutString.java" />
         <option value="$PROJECT_DIR$/src/string3/EqualIsNot.java" />
+        <option value="$PROJECT_DIR$/src/string3/GHappy.java" />
+        <option value="$PROJECT_DIR$/src/string3/CountTriple.java" />
+        <option value="$PROJECT_DIR$/src/string3/SumDigits.java" />
+        <option value="$PROJECT_DIR$/src/string3/Main.java" />
       </list>
     </option>
   </component>
@@ -454,27 +454,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/logic1/TheOrderEqual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic1/LastDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic1/LessByTen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/logic1/WithoutDoubles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -785,17 +764,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string3/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/string3/EqualIsNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state relative-caret-position="293">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string3/EqualIsNot.java">
+    <entry file="file://$PROJECT_DIR$/src/string3/GHappy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string3/CountTriple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="15" selection-end-column="22" />
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string3/SumDigits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
         </state>
       </provider>
     </entry>
