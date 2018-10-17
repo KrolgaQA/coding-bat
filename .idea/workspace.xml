@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3665f50-7d85-4e0e-930e-038f8721181d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/string3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string2/SameStarChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string2/SameStarChar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,26 +21,7 @@
     <favorites_list name="epam" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/string3/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumDigits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/string3/SumDigits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,11 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/logic1/LessByTen.java" />
-        <option value="$PROJECT_DIR$/src/logic1/WithoutDoubles.java" />
-        <option value="$PROJECT_DIR$/src/logic1/MaxMod5.java" />
-        <option value="$PROJECT_DIR$/src/logic1/RedTicket.java" />
-        <option value="$PROJECT_DIR$/src/logic1/GreenTicket.java" />
         <option value="$PROJECT_DIR$/src/logic1/BlueTicket.java" />
         <option value="$PROJECT_DIR$/src/logic1/ShareDigit.java" />
         <option value="$PROJECT_DIR$/src/logic1/SumLimit.java" />
@@ -97,15 +73,20 @@
         <option value="$PROJECT_DIR$/src/array2/CenteredAverage.java" />
         <option value="$PROJECT_DIR$/src/array2/Main.java" />
         <option value="$PROJECT_DIR$/src/array2/Sum67.java" />
-        <option value="$PROJECT_DIR$/src/string2/SameStarChar.java" />
         <option value="$PROJECT_DIR$/src/String3.java" />
         <option value="$PROJECT_DIR$/src/string3/CountYZ.java" />
         <option value="$PROJECT_DIR$/src/string3/WithoutString.java" />
         <option value="$PROJECT_DIR$/src/string3/EqualIsNot.java" />
         <option value="$PROJECT_DIR$/src/string3/GHappy.java" />
         <option value="$PROJECT_DIR$/src/string3/CountTriple.java" />
-        <option value="$PROJECT_DIR$/src/string3/SumDigits.java" />
         <option value="$PROJECT_DIR$/src/string3/Main.java" />
+        <option value="$PROJECT_DIR$/src/string3/SumDigits.java" />
+        <option value="$PROJECT_DIR$/src/string2/SameStarChar.java" />
+        <option value="$PROJECT_DIR$/src/string2/OneTwo.java" />
+        <option value="$PROJECT_DIR$/src/string2/StarOut.java" />
+        <option value="$PROJECT_DIR$/src/string2/ZipZap.java" />
+        <option value="$PROJECT_DIR$/src/string2/PlusOut.java" />
+        <option value="$PROJECT_DIR$/src/string2/wordEnds.java" />
       </list>
     </option>
   </component>
@@ -139,7 +120,7 @@
               <item name="epam" type="b2602c69:ProjectViewProjectNode" />
               <item name="epam" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string3" type="462c0819:PsiDirectoryNode" />
+              <item name="string2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +307,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291592" />
@@ -421,6 +401,12 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/string2/wordEnds.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/warmup2/StringMatch.java</url>
           <line>3</line>
@@ -446,7 +432,7 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="27" />
+      <option name="time" value="28" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -454,41 +440,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/logic1/WithoutDoubles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic1/MaxMod5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic1/RedTicket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic1/ShareDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/logic1/BlueTicket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/logic1/GreenTicket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -743,13 +694,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string2/SameStarChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string3/WithoutString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -787,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string3/SumDigits.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -796,6 +740,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string2/SameStarChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string2/OneTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string2/StarOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string2/wordEnds.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string2/PlusOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string2/ZipZap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
