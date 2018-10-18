@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3665f50-7d85-4e0e-930e-038f8721181d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/array2/Has12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array2/Has12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array2/FizzArray3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array2/FizzArray3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TrippleUp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/array2/TrippleUp.java">
+      <file leaf-file-name="Pre4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/array2/Pre4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="89">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -47,10 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/string2/RepeatEnd.java" />
-        <option value="$PROJECT_DIR$/src/string2/RepeatFront.java" />
-        <option value="$PROJECT_DIR$/src/string2/RepeatSeparator.java" />
-        <option value="$PROJECT_DIR$/src/string2/PrefixAgain.java" />
         <option value="$PROJECT_DIR$/src/string2/XYZMiddle.java" />
         <option value="$PROJECT_DIR$/src/string2/Main.java" />
         <option value="$PROJECT_DIR$/src/string2/GetSandwich.java" />
@@ -98,6 +94,10 @@
         <option value="$PROJECT_DIR$/src/array2/Main.java" />
         <option value="$PROJECT_DIR$/src/array2/SameEnds.java" />
         <option value="$PROJECT_DIR$/src/array2/TrippleUp.java" />
+        <option value="$PROJECT_DIR$/src/array2/FizzArray3.java" />
+        <option value="$PROJECT_DIR$/src/array2/ShiftLeft.java" />
+        <option value="$PROJECT_DIR$/src/array2/TenRun.java" />
+        <option value="$PROJECT_DIR$/src/array2/Pre4.java" />
       </list>
     </option>
   </component>
@@ -458,34 +458,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string2/MixString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string2/RepeatFront.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string2/RepeatEnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/string2/XYBalance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/string2/XYZMiddle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -802,10 +774,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/array2/FizzArray3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/array2/TrippleUp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array2/ShiftLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array2/TenRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/array2/Pre4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
